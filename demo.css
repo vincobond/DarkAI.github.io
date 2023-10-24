@@ -9,7 +9,7 @@
     color: rgb(217, 196, 36);
 }
 #main{
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/img/a.jpg);
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/a.jpg);
     /* background-color: brown; */
 }
 #btn_my{
