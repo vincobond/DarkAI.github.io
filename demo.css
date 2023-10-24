@@ -1,0 +1,30 @@
+.images_EDIT img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    /* float: left; */
+}
+.AI{
+    padding-left: 20px;
+    color: rgb(217, 196, 36);
+}
+#main{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/img/a.jpg);
+    /* background-color: brown; */
+}
+#btn_my{
+    border-radius: 20px;
+    background-color: rgba(225, 92, 30, 0.507) !important;
+    color: white !important;
+}
+#btn_my:hover{
+    background-color: rgba(161, 103, 42, 0.656) !important;
+}
+.w3-input{
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+.w3-input:hover{
+    background-color: gainsboro;
+    
+}
